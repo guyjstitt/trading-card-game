@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+  grid-template-rows: repeat(4, 1fr);
+  width: 100vw;
+  height: 100vh;
+}
+
+.single-card {
+  background: url(./assets/yugioh_card_back_v2_by_endergon_oscuro_d6dlsyg.jpg);
+  background-size: cover;                      /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;   
+}
