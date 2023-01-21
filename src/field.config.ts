@@ -6,27 +6,32 @@ export const fieldConfig = [
     {
         "id": 2,
         "classList": ["player-two-hand-zone"],
-        "data": ["hand-zone", "player-two"]
+        "data": ["hand-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 3,
         "classList": ["player-two-hand-zone"],
-        "data": ["hand-zone", "player-two"]
+        "data": ["hand-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 4,
         "classList": ["player-two-hand-zone"],
-        "data": ["hand-zone", "player-two"]
+        "data": ["hand-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 5,
         "classList": ["player-two-hand-zone"],
-        "data": ["hand-zone", "player-two"]
+        "data": ["hand-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 6,
         "classList": ["player-two-hand-zone"],
-        "data": ["hand-zone", "player-two"]
+        "data": ["hand-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 7,
@@ -39,27 +44,32 @@ export const fieldConfig = [
     {
         "id": 9,
         "classList": ["player-two-field-zone"],
-        "data": ["field-zone", "player-two"]
+        "data": ["field-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 10,
         "classList": ["player-two-field-zone"],
-        "data": ["field-zone", "player-two"]
+        "data": ["field-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 11,
         "classList": ["player-two-field-zone"],
-        "data": ["field-zone", "player-two"]
+        "data": ["field-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 12,
         "classList": ["player-two-field-zone"],
-        "data": ["field-zone", "player-two"]
+        "data": ["field-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 13,
         "classList": ["player-two-field-zone"],
-        "data": ["field-zone", "player-two"]
+        "data": ["field-zone", "player-two"],
+        "imageUrl": ""
     },
     {
         "id": 14,
@@ -72,27 +82,32 @@ export const fieldConfig = [
     {
         "id": 16,
         "classList": ["player-one-field-zone"],
-        "data": ["field-zone", "player-one"]
+        "data": ["field-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 17,
         "classList": ["player-one-field-zone"],
-        "data": ["field-zone", "player-one"]
+        "data": ["field-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 18,
         "classList": ["player-one-field-zone"],
-        "data": ["field-zone", "player-one"]
+        "data": ["field-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 19,
         "classList": ["player-one-field-zone"],
-        "data": ["field-zone", "player-one"]
+        "data": ["field-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 20,
         "classList": ["player-one-field-zone"],
-        "data": ["field-zone", "player-one"]
+        "data": ["field-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 21,
@@ -105,27 +120,32 @@ export const fieldConfig = [
     {
         "id": 23,
         "classList": ["player-one-hand-zone"],
-        "data": ["hand-zone", "player-one"]
+        "data": ["hand-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 24,
         "classList": ["player-one-hand-zone"],
-        "data": ["hand-zone", "player-one"]
+        "data": ["hand-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 25,
         "classList": ["player-one-hand-zone"],
-        "data": ["hand-zone", "player-one"]
+        "data": ["hand-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 26,
         "classList": ["player-one-hand-zone"],
-        "data": ["hand-zone", "player-one"]
+        "data": ["hand-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 27,
         "classList": ["player-one-hand-zone"],
-        "data": ["hand-zone", "player-one"]
+        "data": ["hand-zone", "player-one"],
+        "imageUrl": ""
     },
     {
         "id": 28,
