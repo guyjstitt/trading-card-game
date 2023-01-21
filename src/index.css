@@ -23,7 +23,7 @@ code {
 
 .single-card {
   background: url(./assets/yugioh_card_back_v2_by_endergon_oscuro_d6dlsyg.jpg);
-  background-size: cover;                      /* <------ */
+  background-size: contain;                      /* <------ */
   background-repeat: no-repeat;
   background-position: center center;   
 }
