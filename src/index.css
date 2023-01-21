@@ -21,6 +21,10 @@ code {
   height: 100vh;
 }
 
+.wrapper div {
+  border: 1px dotted #ccc;
+}
+
 .single-card {
   background: url(./assets/yugioh_card_back_v2_by_endergon_oscuro_d6dlsyg.jpg);
   background-size: contain;                      /* <------ */
