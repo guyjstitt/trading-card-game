@@ -127,8 +127,6 @@ const App: Component = () => {
   }
 
   return (
-    <div>
-      <pre>{JSON.stringify(deckList(), null, 2)}</pre>
     <div class={styles.App}>
       <div class="wrapper">
         {
@@ -139,7 +137,6 @@ const App: Component = () => {
           })
         }
       </div>
-    </div>
     </div>
   );
 };
